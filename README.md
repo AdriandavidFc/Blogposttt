@@ -1,6 +1,6 @@
 # # My hyperblog  
 Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
->El curso de Git y GitHub es lo que me hacia falta para poder ser feliz en vida, aunque aveces me estresa no poder lograr corregir mis errores
+>Este curso es lo maximo!!
 > - Adrian Fc
 
 ## En este curso pude aprender
